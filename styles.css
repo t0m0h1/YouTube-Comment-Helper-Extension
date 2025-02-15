@@ -1,0 +1,11 @@
+body {
+    width: 250px;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+#comment {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
